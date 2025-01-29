@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://btcflash.onrender.com/api';
+const API_URL = 'https://coinbackend-cpyg.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_URL,
